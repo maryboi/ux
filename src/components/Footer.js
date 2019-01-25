@@ -46,14 +46,14 @@ const Footer = () => (
     <List>
       <Item>
         <a
-          href="https://www.contentful.com/"
+          href ="https://www.linkedin.com/in/maryaberg/"
           rel="nofollow noopener noreferrer"
           target="_blank"
         >
           <img
             src="https://images.ctfassets.net/fo9twyrwpveg/44baP9Gtm8qE2Umm8CQwQk/c43325463d1cb5db2ef97fca0788ea55/PoweredByContentful_LightBackground.svg"
             style={{ width: '100px' }}
-            alt="Powered by Contentful"
+            alt="test"
           />
         </a>
       </Item>
@@ -67,11 +67,11 @@ const Footer = () => (
         </a>{' '}
         by{' '}
         <a
-          href="https://github.com/ryanwiemer"
+          href="https://github.com/maryboi"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @ryanwiemer
+          @maryboi
         </a>
       </Item>
     </List>

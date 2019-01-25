@@ -51,7 +51,7 @@ const Footer = () => (
           target="_blank"
         >
           <img
-            src="https://images.ctfassets.net/fo9twyrwpveg/44baP9Gtm8qE2Umm8CQwQk/c43325463d1cb5db2ef97fca0788ea55/PoweredByContentful_LightBackground.svg"
+            src = "../images/logo_linkedin.png"
             style={{ width: '100px' }}
             alt="test"
           />
@@ -59,11 +59,11 @@ const Footer = () => (
       </Item>
       <Item>
         <a
-          href="https://github.com/ryanwiemer/gatsby-starter-gcn"
+          href="https://github.com/maryboi"
           target="_blank"
           rel="noopener noreferrer"
         >
-          gatsby-starter-gcn
+          Github
         </a>{' '}
         by{' '}
         <a

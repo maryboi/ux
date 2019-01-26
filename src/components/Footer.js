@@ -51,9 +51,9 @@ const Footer = () => (
           target="_blank"
         >
           <img
-            src = "../images/logo_linkedin.png"
+            src = ""
             style={{ width: '100px' }}
-            alt="test"
+            alt="LinkedIn"
           />
         </a>
       </Item>
